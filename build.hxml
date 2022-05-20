@@ -1,0 +1,3 @@
+-cp src
+-main main.Main
+-js bin/hxCraft/dist/main.js
